@@ -5,3 +5,4 @@ itsdangerous==2.1.2
 Jinja2==3.1.3
 MarkupSafe==2.1.5
 Werkzeug==3.0.2
+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
